@@ -1,10 +1,48 @@
 {
   "mangalist": [
-    { "path": "mrs-serie-68010" },
-    { "path": "mrs-serie-100165275" },
-    { "path": "mrs-serie-100089933" },
-    { "path": "mrs-serie-100066731" },
-    { "path": "mrs-serie-200083679" },
-    { "path": "mrs-serie-275136" }
+    {
+      "id": 1,
+      "path": "mrs-serie-68010"
+    },
+    {
+      "id": 2,
+      "path": "mrs-serie-100165275"
+    },
+    {
+      "id": 3,
+      "path": "mrs-serie-100089933"
+    },
+    {
+      "id": 4,
+      "path": "mrs-serie-100066731"
+    },
+    {
+      "id": 5,
+      "path": "mrs-serie-200083679"
+    },
+    {
+      "id": 6,
+      "path": "mrs-serie-275136"
+    },
+    {
+      "id": 7,
+      "path": "mrs-serie-100255594"
+    },
+    {
+      "id": 8,
+      "path": "mrs-serie-200002903"
+    },
+    {
+      "id": 9,
+      "path": "mrs-serie-200167412"
+    },
+    {
+      "id": 10,
+      "path": "mrs-serie-100056199"
+    },
+    {
+      "id": 11,
+      "path": "mrs-serie-200044370"
+    }
   ]
 }
